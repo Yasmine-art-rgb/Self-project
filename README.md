@@ -1,4 +1,9 @@
 # Personal Finance Tracker
+## NAME IBRAHIM BASHIR YASMINE
+
+## MATRIC NUMBER 24/15407
+
+## DEPT COMPUTER SCIENCE
 
 A command-line application for managing personal income and expenses with transaction tracking, balance calculation, and category-based expense analysis.
 
